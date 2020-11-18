@@ -2,7 +2,7 @@
  * main.c
  *
  *  Created on: May 22, 2019
- *      Author: Marna
+ *      Author: Mohamed osama
  */
 
 #include "STD_TYPES.h"
